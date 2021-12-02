@@ -1,0 +1,4 @@
+pyleniumio==1.13.0
+rich==10.15.1
+loguru==0.5.3
+pyyaml

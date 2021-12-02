@@ -1,0 +1,16 @@
+version: "3.9"
+
+services:
+  linkedin-bot:
+    image: ericr/linkedin-bot
+    command: python /app/src/linkedin_bot/main.py
+    build:
+      dockerfile: ./Dockerfile
+      context: .
+    env_file:
+      - ./.env
+    environment:
+      DISPLAY: ":0"
+      MOZ_HEADLESS: 1
+    volumes:
+      - ".:/app"

@@ -1,0 +1,20 @@
+driver:
+  browser: firefox
+  remote_url: ''
+  wait_time: 5
+  page_load_wait_time: 10
+  # options:
+  # - headless
+  capabilities: {}
+  version: latest
+  experimental_options:
+  extension_paths: []
+  webdriver_kwargs: {}
+  local_path: ''
+logging:
+  screenshots_on: true
+viewport:
+  maximize: true
+  width: 1440
+  height: 900
+  orientation: portrait
