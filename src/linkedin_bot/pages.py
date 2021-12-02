@@ -212,8 +212,6 @@ class InvitationManager(Page):
         person_name: str = invitation_card.name
         convo: Optional[Conversation] = Conversation.find_by_name(py=py, name=person_name)
         if convo is not None:
-            if convo.name != "Kameron Lightheart":
-                raise Exception(f"Nooooo! {convo.name}")
             convo.set_message(message)
             convo.send_message()
             

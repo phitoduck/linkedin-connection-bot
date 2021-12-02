@@ -2,6 +2,8 @@
 
 Welcome! If you're here, there's a 99% chance you were spammed by this bot 🤣
 
+![Eric's Python Bot](./message.png)
+
 ## What does this do?
 
 This is a script that takes your Linkedin email and password, loops over the list of people who have sent

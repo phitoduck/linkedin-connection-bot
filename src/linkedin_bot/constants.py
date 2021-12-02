@@ -21,6 +21,8 @@ Would you please follow me if we don't know each other?\n
 
 I try to do a phone call to meet someone every day on my drive home from work. We can do one if you like :D\n
 
+If you care to see the code that is currently spamming you... it's here! https://github.com/phitoduck/linkedin-connection-bot\n
+
 Nice to meet you,\n
 
 Eric
