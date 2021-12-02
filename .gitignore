@@ -4,3 +4,4 @@ cookies.json
 __pycache__
 .pytest_cache
 .DS_Store
+messaged-people.yaml
