@@ -4,6 +4,8 @@ Welcome! If you're here, there's a 99% chance you were spammed by this bot 🤣
 
 ![Eric's Python Bot](./message.png)
 
+[Edit] ^^^ Apparently the Linkedin connection limit is 30,000 people and somewhere I got the idea that it was 1,000... so there's that. I changed the message because I still generally want to start with only connecting to people that I know.
+
 ![Smiley People](./linkedin-bot.png)
 
 ## What does this do?
